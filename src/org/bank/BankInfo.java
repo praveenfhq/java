@@ -6,6 +6,9 @@ private void fullName() {
 
 System.out.println("fullname=gobi");
 
+System.out.println("fullname=praveen");
+
+
 }
  private void sortCode() {
 	
