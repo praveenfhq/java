@@ -4,7 +4,7 @@ public class BankInfo {
 private void fullName() {
 	
 
-System.out.println("fullname=gobi");
+System.out.println("fullname=praveenkumar");
 
 }
  private void sortCode() {
