@@ -3,7 +3,9 @@ package org.bank;
 public class BankInfo {
 private void fullName() {
 	
-System.out.println("fullname=praveenkumar nallappan");
+
+System.out.println("fullname=gobi");
+
 }
  private void sortCode() {
 	
@@ -14,6 +16,7 @@ private void accountNumber() {
 System.out.println("accountNumber=63478960101");
 }
 private void bankAddress() {
+
 
 System.out.println("bankAddress=chennai");
 }
